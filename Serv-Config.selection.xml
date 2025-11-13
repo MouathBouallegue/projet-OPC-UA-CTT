@@ -1,0 +1,12 @@
+<UaTestCaseSelection xsi:noNamespaceSchemaLocation="testcaseselection.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <ProjectInfo specificationversion="1.04.011" ProjectType="ServerProject" binaryversion="1.11.000+411" scriptversion="1.04.508"/>
+ <ConformanceGroups>
+  <ConformanceGroup name="Address Space Model">
+   <ConformanceUnit name="Address Space UserWriteAccess">
+    <TestCases>
+     <TestCase name="TestAccess.js"/>
+    </TestCases>
+   </ConformanceUnit>
+  </ConformanceGroup>
+ </ConformanceGroups>
+</UaTestCaseSelection>

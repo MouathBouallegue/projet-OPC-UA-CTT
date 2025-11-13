@@ -1,0 +1,2 @@
+Test.Disconnect();
+Test.PostTestFunctions = [];

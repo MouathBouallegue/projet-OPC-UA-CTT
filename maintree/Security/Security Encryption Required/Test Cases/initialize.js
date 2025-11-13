@@ -1,0 +1,2 @@
+notImplemented( "This conformance unit does contain automated test-scripts. Manual test cases are defined." );
+notImplemented( "Refer to test-case specifications for testing instructions https://profiles.opcfoundation.org/testsuite/3965" );
